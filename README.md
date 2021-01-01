@@ -7,7 +7,7 @@ PROJECT DESCRIPTION: Horiseon is marketing agency that provides consulting for b
 
 Below is a screenshot of the page:
 
-![ScreenShot](/assets/main.png)
+![ScreenShot](/assets/images/main.png)
 
 The deployed URL is https://coolculasa.github.io/horiseon/
 The URL of the github repository is https://github.com/coolculasa/horiseon
