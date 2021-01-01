@@ -79,7 +79,7 @@ div.main_image img {
 	object-fit: cover;
 }
 
-/* Contents - Left and Right Column */
+/* Contents - Left Column */
 
 section.nav_items {
 	width: 75%;
@@ -118,7 +118,7 @@ section.nav_items article.nav_items h2 {
 }
 
 
-/* Benefits Aside */
+/* Benefits - Right Column */
 
 aside.benefits {
 	margin-right: 20px;
@@ -131,7 +131,7 @@ aside.benefits {
 	background-color: #2589bd;
 }
 
-/* Benefits articles - descriptions of benefits */
+/* Articles - description */
 
 aside.benefits article.benefit {
 	margin-bottom: 32px;
