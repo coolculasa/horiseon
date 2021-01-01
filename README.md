@@ -10,6 +10,7 @@ Below is a screenshot of the page:
 ![ScreenShot](/assets/images/main.png)
 
 The deployed URL is https://coolculasa.github.io/horiseon/
+
 The URL of the github repository is https://github.com/coolculasa/horiseon
 
 
