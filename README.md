@@ -12,9 +12,4 @@ Below is a screenshot of the page:
 The deployed URL is https://coolculasa.github.io/horiseon/
 The URL of the github repository is https://github.com/coolculasa/horiseon
 
-The HTML page was validated using https://validator.w3.org/
-
-Result of the validation is shown below:
-
-![ScreenShot](/Screenshots/checkindex.png)
 
